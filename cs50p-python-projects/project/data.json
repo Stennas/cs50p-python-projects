@@ -1,0 +1,22 @@
+{
+    "habits": [
+        {
+            "name": "Run",
+            "streak": 0,
+            "last_completed": null,
+            "created": "03/06/2025"
+        },
+        {
+            "name": "Bible study",
+            "streak": 1,
+            "last_completed": "03/06/2025",
+            "created": "03/06/2025"
+        },
+        {
+            "name": "Workout",
+            "streak": 1,
+            "last_completed": "03/06/2025",
+            "created": "03/06/2025"
+        }
+    ]
+}
